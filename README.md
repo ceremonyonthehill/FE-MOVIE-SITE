@@ -1,3 +1,7 @@
 # FE-MOVIE-SITE
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://ceremonyonthehill.github.io/FE-MOVIE-SITE/)
+Mission 3
+
+## Live Demo
+[Klik di sini untuk lihat demo !!](https://ceremonyonthehill.github.io/FE-MOVIE-SITE/)
+
